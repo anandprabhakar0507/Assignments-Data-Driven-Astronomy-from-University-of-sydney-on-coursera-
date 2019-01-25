@@ -1,0 +1,39 @@
+## Pulsars are the neutron beams formed when   
+   stars experience supernova explosion or tending  
+   to experince due to which a high freq. neutron 
+   beam forms with increased magnetic intensity   
+  (magnetic   flux) and gravitational intensity   when two star collide together to result a   supernove explosion.
+
+## astronomical images are saved in format .fits(FITS             
+   IMAGES).also softwares ds9 and laden are used to       
+   open this type of file.
+
+## The unit of flux density is Jy(jenystein)
+   and 1Jy = 1 x 10e-26 w/m^2-Hz
+   w= watt, m=metre and Hz=Hertz
+
+## sample sources and their respective flux      density..
+                  Source            |      Flux Density(in Jy)
+     ==========================================================
+       1. Mobile phone              |     110,000,000
+       2.Sun at 10 GHz              |     4,000,000
+       3.Milky way at 10GHz         |     2,000
+       4.Crab pulsar at 1.4 GHz     |     0.01
+
+
+## How much memory can be used to store 600,000 images       
+   of 200 x 200px?
+ ==> 1 image = 200 x 200 px = 40,000 px
+     and 1 pixel = 8 byte
+     so total memory = 600,000 x 40,000 x 8 bytes =192GB
+
+    **also if images does not consist of very important data         
+      then alternatively we can resize all images to 50 x 50px
+      and the memory size will be reduced by factor of 4
+      i.e onle 16GB of memory will be used
+
+
+
+
+
+
