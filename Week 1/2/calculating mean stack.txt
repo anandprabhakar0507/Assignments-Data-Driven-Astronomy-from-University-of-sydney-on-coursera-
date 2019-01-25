@@ -1,0 +1,29 @@
+We'll start with an easy question to check everything is working.
+
+Write a function calculate_mean that calculates the mean of a list of numbers. Your function should take a single argument, the list of floats, and return the mean of that list, like this:
+
+
+>>> calculate_mean([1, 2.2, 0.3, 3.4, 7.9])
+2.96
+We'll test your function on different lists, so make sure it works for the general case. Here's another example of how it should work:
+
+
+>>> calculate_mean([1.2, 3.8, 2.2, 8.2, 7.1])
+4.5
+Your solution cannot use the builtin statistics module.
+
+Make sure your program works for negative numbers as well. We will not test your program with an empty list.
+
+Remember the testing trick!
+In Grok, you must only submit your function definition. Your program must not print any output. To test your function, use the __name__ == '__main__' trick, like this:
+
+  
+
+  print(double(5))
+def double(a):
+  return a*2
+  
+if __name__ == '__main__':
+  # run your tests in here
+  print(double(5))
+Everything in this if statement will be ignored by the marker.

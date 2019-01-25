@@ -1,0 +1,15 @@
+Write a program that prints out the message:
+
+
+Hello, World!
+If you're not sure how to start writing the program, go back a few pages and take another look at the notes.
+
+How do I submit?
+Write your program (in the program.py file) in the editor
+(large panel on the right);
+
+Run your program by clicking  
+Run  in the top right-hand menu bar. The output will appear below your code. Check the program works correctly!
+
+Mark your program by clicking  
+Mark  and we will automatically check if your program is correct, and if not, give you some hints to fix it up.
