@@ -1,8 +1,12 @@
+======================WEEK-1===================================
+
 ## Pulsars are the neutron beams formed when   
    stars experience supernova explosion or tending  
    to experince due to which a high freq. neutron 
    beam forms with increased magnetic intensity   
-  (magnetic   flux) and gravitational intensity   when two star collide together to result a   supernove explosion.
+  (magnetic   flux) and gravitational intensity   
+  when two star collide together to result a   
+  supernove explosion.
 
 ## astronomical images are saved in format .fits(FITS             
    IMAGES).also softwares ds9 and laden are used to       
@@ -31,9 +35,9 @@
       then alternatively we can resize all images to 50 x 50px
       and the memory size will be reduced by factor of 4
       i.e onle 16GB of memory will be used
+=======================WEEK-1-END================================
 
-
-
+==========================WEEK-2=================================
 
 
 
