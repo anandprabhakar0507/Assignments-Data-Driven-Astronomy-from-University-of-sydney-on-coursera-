@@ -13,10 +13,10 @@
    open this type of file.
 
 ## The unit of flux density is Jy(jenystein)
-   and 1Jy = 1 x 10e-26 w/m^2-Hz
-   w= watt, m=metre and Hz=Hertz
+     and 1Jy = 1 x 10e-26 w/m^2-Hz
+     w= watt, m=metre and Hz=Hertz
 
-## sample sources and their respective flux      density..
+## sample sources and their respective flux density..
                Source            |      Flux Density(in Jy)
   ==========================================================
     1. Mobile phone              |     110,000,000
@@ -46,4 +46,21 @@
     optical devices to allocate these frequencies of 
     different scale.
 
-## 
+## In contrast, radio emission, at centimeter to meter 
+     wavelengths, occurs when, for example, electrons are
+     accelerated in magnetic fields, and can show us when 
+     massive shocks are occurring in space.
+
+## Here's an example of what you get when you 
+     find a match in optical and radio, and combine  
+     that information together.Hercules A, 
+     a radio galaxy 643 megaparsecs, or 2,100 million 
+     light years away. Remember, in cosmological terms, 
+     that makes it a pretty near neighbor.
+     You can clearly see the core of the galaxy 
+     where the supermassive black hole is located,
+     the powerful jets transporting energy to the outskirts 
+     of the galaxy and beyond. And the massive lobes of 
+     old radio emission from previous cycles of activity.
+     In the optical image, you can see the stars that 
+     make up the elliptical galaxy 3c348.(see image "hercules.png")
