@@ -20,3 +20,5 @@ This repository contain all the assignment that i am completing during the lesso
 ![img](https://github.com/anandprabhakar0507/Assignments-Data-Driven-Astronomy-from-University-of-sydney-on-coursera-/blob/master/Week%202/images/Accretion%20disk.png)
 
 ![img](https://github.com/anandprabhakar0507/Assignments-Data-Driven-Astronomy-from-University-of-sydney-on-coursera-/blob/master/Week%202/images/agn.png)
+
+## i learnt to deal with FITS files using astropy,numpy,matplotlib and libraries of python.
