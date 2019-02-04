@@ -5,7 +5,7 @@ This repository contain all the assignment that i am completing during the lesso
 
 #### see sample images during the course:
 
-[img1](https://github.com/anandprabhakar0507/Assignments-Data-Driven-Astronomy-from-University-of-sydney-on-coursera-/blob/master/Week%202/images/galaxy%201.png)
+![img1](https://github.com/anandprabhakar0507/Assignments-Data-Driven-Astronomy-from-University-of-sydney-on-coursera-/blob/master/Week%202/images/galaxy%201.png)
 
 ![img](https://github.com/anandprabhakar0507/Assignments-Data-Driven-Astronomy-from-University-of-sydney-on-coursera-/blob/master/Week%202/images/galaxy%202.png)
 
