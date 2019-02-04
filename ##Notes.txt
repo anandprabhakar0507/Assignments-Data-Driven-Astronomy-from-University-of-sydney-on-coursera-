@@ -16,13 +16,13 @@
      and 1Jy = 1 x 10e-26 w/m^2-Hz
      w= watt, m=metre and Hz=Hertz
 
-## sample sources and their respective flux density..
-               Source            |      Flux Density(in Jy)
-  ==========================================================
-    1. Mobile phone              |     110,000,000
-    2.Sun at 10 GHz              |     4,000,000
-    3.Milky way at 10GHz         |     2,000
-    4.Crab pulsar at 1.4 GHz     |     0.01
+## sample sources and their respective flux      density..
+                  Source            |      Flux Density(in Jy)
+     ==========================================================
+       1. Mobile phone              |     110,000,000
+       2.Sun at 10 GHz              |     4,000,000
+       3.Milky way at 10GHz         |     2,000
+       4.Crab pulsar at 1.4 GHz     |     0.01
 
 
 ## How much memory can be used to store 600,000 images       
@@ -64,3 +64,32 @@
      old radio emission from previous cycles of activity.
      In the optical image, you can see the stars that 
      make up the elliptical galaxy 3c348.(see image "hercules.png")
+
+## Our eyes can only detect the lights of visible
+     region of em spectrum.
+
+## Galaxies are not just made up of stars, they also
+     contain a lot of gas and dust, and at the heart of 
+     all large galaxies, a supermassive black hole, millions
+     or even billions of times the mass of our sun, squeezed 
+     down into a space smaller than our solar system. 
+     Although very small compared with the scale of an 
+     entire galaxy, these black holes can have a huge 
+     impact on the galaxy's growth and formation. 
+     In cases where there is a lot of gas in the central region
+     of the galaxy, this material can be accreted on to the
+     black hole via an Accretion Disk, releasing a lot of 
+     energy in the process. This is what we call, an 
+     Active Galactic Nucleus, or AGN. The radiation 
+     produced by the AGN is so bright that it can outshine
+     the entire galaxy, producing far more energy 
+     than all of the galaxy's stars combined. 
+     The accretion process can also form huge
+     jets of strong magnetic fields emanating out from 
+     around the black hole. And fast moving electrons
+     spiraling around these magnetic fields, produce huge
+    quantities of radio emissions. These radio jets can 
+    grow to enormous sizes, sometimes extending far 
+    beyond the galaxy to be millions of light-years across.
+    They can also provide information on the past 
+    activity of the central black hole.
