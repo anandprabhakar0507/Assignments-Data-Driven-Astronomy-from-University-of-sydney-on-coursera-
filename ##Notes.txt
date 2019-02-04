@@ -1,12 +1,12 @@
-======================WEEK-1===================================
+======================WEEK-1=================================
 
 ## Pulsars are the neutron beams formed when   
-   stars experience supernova explosion or tending  
-   to experince due to which a high freq. neutron 
-   beam forms with increased magnetic intensity   
-  (magnetic   flux) and gravitational intensity   
-  when two star collide together to result a   
-  supernove explosion.
+     stars experience supernova explosion or tending  
+     to experince due to which a high freq. neutron 
+     beam forms with increased magnetic intensity   
+     (magnetic   flux) and gravitational intensity   
+     when two star collide together to result a   
+     supernove explosion.
 
 ## astronomical images are saved in format .fits(FITS             
    IMAGES).also softwares ds9 and laden are used to       
@@ -17,16 +17,16 @@
    w= watt, m=metre and Hz=Hertz
 
 ## sample sources and their respective flux      density..
-                  Source            |      Flux Density(in Jy)
-     ==========================================================
-       1. Mobile phone              |     110,000,000
-       2.Sun at 10 GHz              |     4,000,000
-       3.Milky way at 10GHz         |     2,000
-       4.Crab pulsar at 1.4 GHz     |     0.01
+               Source            |      Flux Density(in Jy)
+  ==========================================================
+    1. Mobile phone              |     110,000,000
+    2.Sun at 10 GHz              |     4,000,000
+    3.Milky way at 10GHz         |     2,000
+    4.Crab pulsar at 1.4 GHz     |     0.01
 
 
 ## How much memory can be used to store 600,000 images       
-   of 200 x 200px?
+     of 200 x 200px?
  ==> 1 image = 200 x 200 px = 40,000 px
      and 1 pixel = 8 byte
      so total memory = 600,000 x 40,000 x 8 bytes =192GB
@@ -35,9 +35,15 @@
       then alternatively we can resize all images to 50 x 50px
       and the memory size will be reduced by factor of 4
       i.e onle 16GB of memory will be used
-=======================WEEK-1-END================================
+=======================WEEK-1-END===========================
 
-==========================WEEK-2=================================
+==========================WEEK-2============================
 
+## Every different type of object emits radiation of 
+     different frequency.(see the image "big data make things slow.png")
 
+## Astronomers uses astronomical telescopes and many 
+    optical devices to allocate these frequencies of 
+    different scale.
 
+## 
