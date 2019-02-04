@@ -88,8 +88,24 @@
      jets of strong magnetic fields emanating out from 
      around the black hole. And fast moving electrons
      spiraling around these magnetic fields, produce huge
-    quantities of radio emissions. These radio jets can 
-    grow to enormous sizes, sometimes extending far 
-    beyond the galaxy to be millions of light-years across.
-    They can also provide information on the past 
-    activity of the central black hole.
+     quantities of radio emissions. These radio jets can 
+     grow to enormous sizes, sometimes extending far 
+     beyond the galaxy to be millions of light-years across.
+     They can also provide information on the past 
+     activity of the central black hole.
+
+## If we create some arrays of random values and 
+     cross-match them, increasing the number of values 
+     in each array, each time, we end up with a plot like this. 
+     The x-axis shows the number of points we put in 
+     each catalogue. And the y-axis shows the number of
+     milliseconds the code took to run. For 100 galaxies, 
+     my program takes roughly 50 milliseconds. For 1,000 
+     galaxies, my program takes roughly 5,000 milliseconds. 
+     And for 10,000 galaxies my program takes roughly 
+     500,000 milliseconds. We could keep going, but I got
+     bored waiting on the script to run. It doesn't matter 
+     because we can already see a clear trend. When we 
+     increase the number of galaxies in each catalogue by 
+     a factor of ten, the time the program takes to run 
+     increases by a factor of 100
