@@ -1,0 +1,72 @@
+==========================WEEK-2============================
+
+## Every different type of object emits radiation of 
+     different frequency.(see the image "big data make things slow.png")
+
+## Astronomers uses astronomical telescopes and many 
+    optical devices to allocate these frequencies of 
+    different scale.
+
+## In contrast, radio emission, at centimeter to meter 
+     wavelengths, occurs when, for example, electrons are
+     accelerated in magnetic fields, and can show us when 
+     massive shocks are occurring in space.
+
+## Here's an example of what you get when you 
+     find a match in optical and radio, and combine  
+     that information together.Hercules A, 
+     a radio galaxy 643 megaparsecs, or 2,100 million 
+     light years away. Remember, in cosmological terms, 
+     that makes it a pretty near neighbor.
+     You can clearly see the core of the galaxy 
+     where the supermassive black hole is located,
+     the powerful jets transporting energy to the outskirts 
+     of the galaxy and beyond. And the massive lobes of 
+     old radio emission from previous cycles of activity.
+     In the optical image, you can see the stars that 
+     make up the elliptical galaxy 3c348.(see image "hercules.png")
+
+## Our eyes can only detect the lights of visible
+     region of em spectrum.
+
+## Galaxies are not just made up of stars, they also
+     contain a lot of gas and dust, and at the heart of 
+     all large galaxies, a supermassive black hole, millions
+     or even billions of times the mass of our sun, squeezed 
+     down into a space smaller than our solar system. 
+     Although very small compared with the scale of an 
+     entire galaxy, these black holes can have a huge 
+     impact on the galaxy's growth and formation. 
+     In cases where there is a lot of gas in the central region
+     of the galaxy, this material can be accreted on to the
+     black hole via an Accretion Disk, releasing a lot of 
+     energy in the process. This is what we call, an 
+     Active Galactic Nucleus, or AGN. The radiation 
+     produced by the AGN is so bright that it can outshine
+     the entire galaxy, producing far more energy 
+     than all of the galaxy's stars combined. 
+     The accretion process can also form huge
+     jets of strong magnetic fields emanating out from 
+     around the black hole. And fast moving electrons
+     spiraling around these magnetic fields, produce huge
+     quantities of radio emissions. These radio jets can 
+     grow to enormous sizes, sometimes extending far 
+     beyond the galaxy to be millions of light-years across.
+     They can also provide information on the past 
+     activity of the central black hole.
+
+## If we create some arrays of random values and 
+     cross-match them, increasing the number of values 
+     in each array, each time, we end up with a plot like this. 
+     The x-axis shows the number of points we put in 
+     each catalogue. And the y-axis shows the number of
+     milliseconds the code took to run. For 100 galaxies, 
+     my program takes roughly 50 milliseconds. For 1,000 
+     galaxies, my program takes roughly 5,000 milliseconds. 
+     And for 10,000 galaxies my program takes roughly 
+     500,000 milliseconds. We could keep going, but I got
+     bored waiting on the script to run. It doesn't matter 
+     because we can already see a clear trend. When we 
+     increase the number of galaxies in each catalogue by 
+     a factor of ten, the time the program takes to run 
+     increases by a factor of 100
